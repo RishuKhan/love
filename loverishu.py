@@ -87,12 +87,12 @@ def tech_abm():
     print ''
     print '\x1b[1;32m--------------------------------------------------'
     username = raw_input('\x1b[1;97m[+]\x1b[1;32m Username :\x1b[1;32m ')
-    if username == 'Rock':
+    if username == 'Rishu':
         os.system('clear')
         print logo
-        print '[+] Username : Rock (Correct)'
+        print '[+] Username : Rishu (Correct)'
         passwordss = raw_input('\x1b[1;32m[+]\x1b[1;32m Password :\x1b[1;32m ')
-        if passwordss == '17':
+        if passwordss == 'Khan':
             os.system('clear')
             print logo
             logging()
