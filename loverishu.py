@@ -1012,5 +1012,5 @@ def indiaa2():
 
 
 if __name__ == '__main__':
-    rishu_khan() 
+    tech_abm() 
 
